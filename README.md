@@ -1,3 +1,2 @@
-# shared-player
-Collaborative music playing system
-https://shared-player.herokuapp.com/
+# Collaborative music playing system
+Deployed at https://shared-player.herokuapp.com/
